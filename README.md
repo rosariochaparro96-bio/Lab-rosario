@@ -1,5 +1,10 @@
+
 # 12.0_Laboratorio_Git_Github-
 Laboratorio de Git y Github.  Duración 90 min
+
+# Trak List de todo un poco.
+>_When I´ve been out working my arse off all day_>
+>>>>> 9ca1d2fc33a229eec3b227f705052c2c1ac7b883
 
 # Trak List de todo un poco.
 Qué más da - Aquella chica rara
